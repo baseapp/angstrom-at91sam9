@@ -16,5 +16,5 @@ meta-java,git://github.com/woglinde/meta-java.git,master,3386ea6c96096f107f43f28
 meta-browser,git://github.com/OSSystems/meta-browser.git,master,c47f59df2e723495679c751cbdf6a8c6adec4b6a
 meta-mono,git://git.yoctoproject.org/meta-mono.git,master,83f8233b0498aadb18bf7605c3ba6c71d9e13a3a
 meta-kde,git://gitorious.org/openembedded-core-layers/meta-kde.git,master,5b0882d951cfd71886d423c190faaa7c7f932333
-openembedded-core,git://github.com/openembedded/oe-core.git,denzil,HEAD
-meta-atmel,git://github.com/tavishnaruka/meta-atmel.git,master,HEAD
+openembedded-core,git://github.com/baseapp/oe-core.git,release,HEAD
+meta-atmel,git://github.com/baseapp/meta-atmel.git,release,HEAD
